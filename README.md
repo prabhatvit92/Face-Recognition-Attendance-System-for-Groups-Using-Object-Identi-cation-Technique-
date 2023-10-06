@@ -21,7 +21,5 @@ python recognize.py --detector face_detection_model --embedding-model openface_n
 ![image](https://github.com/prabhatvit92/Face-Recognition-Attendance-System-for-Groups-Using-Object-Identi-cation-Technique-/assets/114719849/e6a5eecb-8125-42fd-9fc1-f9431cb67ff6)
 
 
-
-For any queries feel free to write me on 
 Email: Prabhatmishra3112@gmail.com
 whatsapp: 7004596360
